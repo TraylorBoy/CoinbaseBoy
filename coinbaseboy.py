@@ -1,4 +1,4 @@
-"""CoinbasePro wrapper in Python"""
+"""Coinbase wrapper in Python"""
 
 class CBoy:
   def __init__(self):
