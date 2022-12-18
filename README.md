@@ -1,0 +1,2 @@
+# CoinbaseBoy
+Coinbase api wrapper
